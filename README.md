@@ -28,7 +28,7 @@ Project OS hilft dir, dein Projekt zu entwickeln, Aufgaben anzulegen und Wissen 
 
 ## 5. Project OS starten
 
-1. Lade [START-PROJECT-OS.md](../START-PROJECT-OS.md) über die Download-Schaltfläche in der GitHub-Dateiansicht herunter. Der Link liegt im privaten Entwicklungsrepository und funktioniert für berechtigte Beta-Tester. Für die spätere öffentliche Verteilung genügt dieselbe einzelne Datei. Eine öffentliche Bezugsquelle ist noch nicht freigegeben.
+1. Öffne die öffentliche [Startdatei START-PROJECT-OS.md](START-PROJECT-OS.md) und klicke in der GitHub-Dateiansicht auf **Download raw file**, um sie herunterzuladen. Du benötigst dafür keinen Zugriff auf das private Entwicklungsrepository.
 2. Lade die Datei einmal im Projektchat hoch und schreibe „Richte Project OS für mein Projekt ein.“ Füge den Link zu deinem Repository hinzu.
 3. Beantworte die Fragen zu Projektname, Zweck und gewünschten Funktionen. Falls mehrere Branches zur Auswahl stehen, wähle den Branch für dein Projekt. Ein Branch ist eine Entwicklungslinie im Repository. Bei einem neuen Repository heißt die Hauptlinie meist `main`.
 
